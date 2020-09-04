@@ -1,0 +1,13 @@
+/* Cascada de estilos */
+
+/* Tipografia Crimson Pro
+Extra-light 200,Extra-light 200
+italicRegular 400,Regular 400
+italicExtra-bold 800,Extra-bold 800 italic */
+@import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200;0,400;0,800;1,200;1,400;1,800&display=swap');
+ 
+body{
+    background-color: rgb(225, 255, 240);
+    font-size: 22px;
+    font-family: 'Crimson Pro', serif;
+}
